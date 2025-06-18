@@ -1,0 +1,9 @@
+.badge {
+  font-size: 0.75rem;
+  padding: 0.4em 0.75em;
+  font-weight: 500;
+}
+
+select.form-select {
+  min-width: 180px;
+}
